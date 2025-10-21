@@ -83,11 +83,11 @@
 
 <picture>
   <!-- Dark Mode -->
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khoahotran&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khoahotran&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20Notebook&exclude_repo=documents,khoahotran,ppl,github-readme-streak-stats&count_private=true" media="(prefers-color-scheme: dark)" />
   <!-- Light Mode -->
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khoahotran&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khoahotran&layout=compact&theme=default&hide_border=true&hide=Jupyter%20Notebook&exclude_repo=documents,khoahotran,ppl,github-readme-streak-stats&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoahotran&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoahotran&layout=compact&hide_border=true&hide=Jupyter%20Notebook&exclude_repo=documents,khoahotran,ppl,github-readme-streak-stats&count_private=true" alt="Top Languages" />
 </picture>
 
 </div>
