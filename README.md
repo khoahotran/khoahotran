@@ -33,7 +33,7 @@
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) | | |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) | ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | |
 
 </div>
 
@@ -69,18 +69,31 @@
 </details>
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khoahotran&show_icons=true&locale=en&layout=compact&theme=github_light&hide_border=true&bg_color=ffffff" alt="Top Languages" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=khoahotran&show_icons=true&locale=en&theme=github_light&hide_border=true&bg_color=ffffff" alt="GitHub Stats" height="180em" />
+
+<picture>
+  <!-- Dark Mode -->
+  <source srcset="https://github-readme-stats.vercel.app/api?username=khoahotran&show_icons=true&theme=dark&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)" />
+  <!-- Light Mode -->
+  <source srcset="https://github-readme-stats.vercel.app/api?username=khoahotran&show_icons=true&theme=default&hide_border=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khoahotran&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+</picture>
+
+<br />
+
+<picture>
+  <!-- Dark Mode -->
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khoahotran&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <!-- Light Mode -->
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khoahotran&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoahotran&layout=compact&hide_border=true" alt="Top Languages" />
+</picture>
+
 </div>
 
+
+
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-smoky.vercel.app?user=khoahotran&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-smoky.vercel.app?user=khoahotran&theme=transparent&border_radius=20" alt="GitHub Streak" /></a>
 </div>
-
-<!--## 🚀 Featured Projects-->
-
-<!--<div align="center">-->
-<!--  <p>Featured projects coming soon! Check back later for updates on my latest work.</p>-->
-<!--</div>-->
